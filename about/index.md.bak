@@ -1,0 +1,16 @@
+---
+title: "About"
+description: "Hi! My name is Michał Sekuła. I'm a Data Scientist."
+featured_image: '/images/aboutme.jpg'
+menu:
+  main:
+    weight: 1
+---
+{{< figure src="/images/focia.jpg" title="Photo of me :)" >}}
+
+As a (Big) Data Scientist I have a strong passion for developing Data Models, Dashboards, Reports and Performance related insights. With Data Science experience I can perform advanced analytics to large data sets (I find patterns and dependencies naturally).
+There is no place for any misscommunication - I can present the results of my work in an intuitive and understandable way for the stakeholders.
+
+I would like to become a Data Science Specialist in the future, that's why I'm so motivated to learn.
+
+Hard skills: Python, SQL, Excel, PowerBI, Tableau.
