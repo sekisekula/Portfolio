@@ -1,6 +1,6 @@
 ---
 title: Contact
-featured_image: '"fotka.jpg"'
+featured_image: '/images/contact.jpg'
 omit_header_text: true
 description: We'd love to hear from you
 type: page
@@ -8,10 +8,7 @@ menu: main
 
 ---
 
-Platform | URL
----|---
-LinkedIn:| [click me!](  https://www.linkedin.com/in/micha%C5%82-seku%C5%82a-126804105/)
-Github:| [click me!](  https://github.com/sekisekula)
 
+This is an example of a custom shortcode that you can put right into your content. You will need to add a form action to the shortcode to make it work. Check out [Formspree](https://formspree.io/) for a simple, free form service. 
 
-[//]: # ({{< form-contact action="https://example.com"  >}})
+{{< form-contact action="https://example.com"  >}}
