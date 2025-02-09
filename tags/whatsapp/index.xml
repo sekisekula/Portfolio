@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>WhatsApp on Michał Sekuła</title>
+    <link>https://sekisekula.github.io/Portfolio/tags/whatsapp/</link>
+    <description>Recent content in WhatsApp on Michał Sekuła</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 08 Feb 2023 12:00:00 +0000</lastBuildDate><atom:link href="https://sekisekula.github.io/Portfolio/tags/whatsapp/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>RealEstateBot: Smart WhatsApp Assistant</title>
+      <link>https://sekisekula.github.io/Portfolio/projects/project-2/</link>
+      <pubDate>Wed, 08 Feb 2023 12:00:00 +0000</pubDate>
+      
+      <guid>https://sekisekula.github.io/Portfolio/projects/project-2/</guid>
+      <description>RealEstateBot: Smart WhatsApp Assistant
+RealEstateBot is an innovative chatbot designed to assist real estate professionals and their clients, seamlessly integrated with WhatsApp. This smart assistant not only automates the process of answering client queries but also verifies user details in real-time. From providing crucial information like Wi-Fi passwords to sharing property details, it does it all within a few simple messages. RealEstateBot significantly enhances client experience by delivering fast, accurate, and personalized responses.</description>
+    </item>
+    
+  </channel>
+</rss>
