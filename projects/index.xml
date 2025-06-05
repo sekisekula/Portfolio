@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Projects on Michał Sekuła</title>
+    <link>https://sekisekula.github.io/Portfolio/projects/</link>
+    <description>Recent content in Projects on Michał Sekuła</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 10 Aug 2023 11:00:59 -0400</lastBuildDate><atom:link href="https://sekisekula.github.io/Portfolio/projects/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Chapter II: Pierre Gringoire</title>
+      <link>https://sekisekula.github.io/Portfolio/projects/project-1/</link>
+      <pubDate>Thu, 10 Aug 2023 11:00:59 -0400</pubDate>
+      
+      <guid>https://sekisekula.github.io/Portfolio/projects/project-1/</guid>
+      <description>Nevertheless, as be harangued them, the satisfaction and admiration unanimously excited by his costume were dissipated by his words; and when he reached that untoward conclusion: “As soon as his illustrious eminence, the cardinal, arrives, we will begin,” his voice was drowned in a thunder of hooting.
+“Begin instantly! The mystery! the mystery immediately!” shrieked the people. And above all the voices, that of Johannes de Molendino was audible, piercing the uproar like the fife’s derisive serenade: “Commence instantly!</description>
+    </item>
+    
+    <item>
+      <title>RealEstateBot: Smart WhatsApp Assistant</title>
+      <link>https://sekisekula.github.io/Portfolio/projects/project-2/</link>
+      <pubDate>Wed, 08 Feb 2023 12:00:00 +0000</pubDate>
+      
+      <guid>https://sekisekula.github.io/Portfolio/projects/project-2/</guid>
+      <description>RealEstateBot: Smart WhatsApp Assistant
+RealEstateBot is an innovative chatbot designed to assist real estate professionals and their clients, seamlessly integrated with WhatsApp. This smart assistant not only automates the process of answering client queries but also verifies user details in real-time. From providing crucial information like Wi-Fi passwords to sharing property details, it does it all within a few simple messages. RealEstateBot significantly enhances client experience by delivering fast, accurate, and personalized responses.</description>
+    </item>
+    
+  </channel>
+</rss>
