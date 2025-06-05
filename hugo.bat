@@ -1,0 +1,16 @@
+@echo off
+:: Plik .bat do uruchamiania Hugo
+
+:: Ustawienie katalogu roboczego na folder projektu
+cd /d "C:\Users\Michal.Sekula\Desktop\Projects\Portfolio"
+
+hugo --cleanDestinationDir
+
+:: Komenda generująca stronę
+echo Generating static site...
+hugo
+
+:: Uruchomienie Hugo Server
+echo Starting Hugo server...
+hugo server
+pause
