@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Projects on Michał Sekuła</title>
+    <link>https://sekisekula.github.io/Portfolio/projects/</link>
+    <description>Recent content in Projects on Michał Sekuła</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 02 Jun 2025 18:37:37 +0000</lastBuildDate><atom:link href="https://sekisekula.github.io/Portfolio/projects/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Receipt Analyzer - Personal Expense Tracker</title>
+      <link>https://sekisekula.github.io/Portfolio/projects/project-1/</link>
+      <pubDate>Mon, 02 Jun 2025 18:37:37 +0000</pubDate>
+      
+      <guid>https://sekisekula.github.io/Portfolio/projects/project-1/</guid>
+      <description>&amp;ldquo;Receipt Analyzer,&amp;rdquo; is a robust personal finance management tool designed to automate the tracking and settlement of household expenses. At its core, it features an intelligent receipt parser, currently optimized for receipts from Biedronka (a popular Polish supermarket chain). All parsed information is meticulously stored in a PostgreSQL database hosted on AWS, ensuring scalability and reliability.
+The application is engineered for high availability and ease of deployment, utilizing Docker for containerization and hosted on an AWS EC2 instance.</description>
+    </item>
+    
+    <item>
+      <title>RealEstateBot: Smart WhatsApp Assistant</title>
+      <link>https://sekisekula.github.io/Portfolio/projects/project-2/</link>
+      <pubDate>Fri, 08 Dec 2023 12:00:00 +0000</pubDate>
+      
+      <guid>https://sekisekula.github.io/Portfolio/projects/project-2/</guid>
+      <description>RealEstateBot: Smart WhatsApp Assistant
+RealEstateBot is an innovative chatbot designed to assist real estate professionals and their clients, seamlessly integrated with WhatsApp. This smart assistant not only automates the process of answering client queries but also verifies user details in real-time. From providing crucial information like Wi-Fi passwords to sharing property details, it does it all within a few simple messages. RealEstateBot significantly enhances client experience by delivering fast, accurate, and personalized responses.</description>
+    </item>
+    
+  </channel>
+</rss>
